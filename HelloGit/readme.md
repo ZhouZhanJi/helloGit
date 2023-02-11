@@ -1,0 +1,1 @@
+在git/info/exclude文件中添加类型让git不上传此类型文件
